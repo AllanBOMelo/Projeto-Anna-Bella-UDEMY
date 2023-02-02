@@ -1,0 +1,42 @@
+@media (max-width:1110px) {
+
+    .capa img {
+        width: 70%;
+    }
+
+    .menu {
+        width: 70%;
+    }
+
+    .conteudo {
+        width: 70%; 
+    }
+
+    footer {
+        width: 70%;
+    }
+
+}
+
+@media (max-width:780px) {
+
+    .capa img {
+        width: 80%;
+    }
+
+    .menu {
+        width: 100%;
+    }
+
+    .conteudo {
+        width: 100%; 
+    }
+
+    .menu ul li a {
+        font-size: 15px;
+    }
+
+    footer {
+        width: 100%;
+    }
+}
