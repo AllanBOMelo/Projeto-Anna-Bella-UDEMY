@@ -12,6 +12,11 @@
         width: 70%; 
     }
 
+    .conteudo img {
+        width: 500px;
+        height: auto;
+    }
+
     footer {
         width: 70%;
     }
@@ -30,6 +35,11 @@
 
     .conteudo {
         width: 100%; 
+    }
+
+    .conteudo img {
+        width: 450px;
+        height: auto;
     }
 
     .menu ul li a {
